@@ -3,9 +3,9 @@ package controllers
 import (
 	"strings"
 
-	"github.com/revel/cron"
-	"github.com/revel/modules/jobs/app/jobs"
-	"github.com/revel/revel"
+	"github.com/apinprastya/cron"
+	"github.com/apinprastya/modules/jobs/app/jobs"
+	"github.com/apinprastya/revel"
 )
 
 type Jobs struct {

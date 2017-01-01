@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/revel/cron"
-	"github.com/revel/revel"
+	"github.com/apinprastya/cron"
+	"github.com/apinprastya/revel"
 )
 
 // Callers can use jobs.Func to wrap a raw func.

@@ -9,8 +9,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/revel/revel"
-	"github.com/revel/revel/testing"
+	"github.com/apinprastya/revel"
+	"github.com/apinprastya/revel/testing"
 )
 
 // TestRunner is a controller which is used for running application tests in browser.

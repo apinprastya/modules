@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"golang.org/x/crypto/bcrypt"
-	"github.com/revel/modules/auth"
+	"github.com/apinprastya/modules/auth"
 )
 
 // example implementation of a Revel auth security driver

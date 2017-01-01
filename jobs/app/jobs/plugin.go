@@ -3,8 +3,8 @@ package jobs
 import (
 	"fmt"
 
-	"github.com/revel/cron"
-	"github.com/revel/revel"
+	"github.com/apinprastya/cron"
+	"github.com/apinprastya/revel"
 )
 
 const DEFAULT_JOB_POOL_SIZE = 10
